@@ -36,8 +36,10 @@
          Mensagem: <br>
         <textarea name="" id="" cols="30" rows="10"></textarea>
 
-        &nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="Cadastrar"></b>
-    </form>
+        <button type="submit" class="btn btn-primary">Cadastrar
+        
+        </button>
+    </form>    
 
 </body>
 </html>
